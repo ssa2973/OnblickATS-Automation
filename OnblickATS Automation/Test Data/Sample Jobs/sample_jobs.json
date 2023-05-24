@@ -1,0 +1,28 @@
+{
+  "JOBS": [
+    {
+      "jobTitle": "Software Developer",
+      "city": "San Francisco",
+      "minExp": "3",
+      "maxExp": "5",
+      "description": "We are seeking a highly skilled software developer to join our team in developing and maintaining our cutting-edge software products. The ideal candidate should have experience in web development, programming languages such as Java and Python, and database management.",
+      "keySkills": "Java, Python, web development, database management"
+    },
+    {
+      "jobTitle": "Marketing Manager",
+      "city": "New York",
+      "minExp": "5",
+      "maxExp": "7",
+      "description": "We are looking for an experienced marketing manager to lead our marketing team in developing and executing effective marketing strategies. The ideal candidate should have a strong understanding of digital marketing, social media, and branding, and should be able to work collaboratively with other departments to achieve company goals.",
+      "keySkills": "digital marketing, branding, social media"
+    },
+    {
+      "jobTitle": "Data Scientist",
+      "city": "Boston",
+      "minExp": "4",
+      "maxExp": "6",
+      "description": "We are seeking a talented data scientist to join our team in analyzing large and complex data sets. The ideal candidate should have experience in statistical modeling, machine learning, and programming languages such as R and Python. The candidate should also have strong problem-solving skills and the ability to communicate insights to both technical and non-technical stakeholders.",
+      "keySkills": "data analysis, statistical modeling, machine learning, R programming, Python programming"
+    }
+  ]
+}

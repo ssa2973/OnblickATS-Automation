@@ -1,0 +1,221 @@
+{
+  "HOTLIST_CANDIDATES": [
+    {
+      "location": "Sacramento",
+      "firstName": "Peter",
+      "lastName": "Miller",
+      "email": "petermiller74@mailinator.com",
+      "designation": "Java Developer"
+    },
+    {
+      "location": "Los Angeles",
+      "firstName": "Emily",
+      "lastName": "Jones",
+      "email": "emilyjones95@mailinator.com",
+      "designation": "Python Developer"
+    },
+    {
+      "location": "San Francisco",
+      "firstName": "Michael",
+      "lastName": "Nguyen",
+      "email": "michaelnguyen83@mailinator.com",
+      "designation": "Software Engineer"
+    },
+    {
+      "location": "Chicago",
+      "firstName": "Laura",
+      "lastName": "Garcia",
+      "email": "lauragarcia76@mailinator.com",
+      "designation": "Front-end Developer"
+    },
+    {
+      "location": "Houston",
+      "firstName": "William",
+      "lastName": "Robinson",
+      "email": "williamrobinson88@mailinator.com",
+      "designation": "Data Scientist"
+    },
+    {
+      "location": "New York",
+      "firstName": "Sophia",
+      "lastName": "Lee",
+      "email": "sophialee02@mailinator.com",
+      "designation": "Marketing Manager"
+    },
+    {
+      "location": "Seattle",
+      "firstName": "David",
+      "lastName": "Baker",
+      "email": "davidbaker89@mailinator.com",
+      "designation": "Full-stack Developer"
+    },
+    {
+      "location": "Miami",
+      "firstName": "Ava",
+      "lastName": "Gomez",
+      "email": "avagomez91@mailinator.com",
+      "designation": "UI/UX Designer"
+    },
+    {
+      "location": "Boston",
+      "firstName": "Ethan",
+      "lastName": "Davis",
+      "email": "ethandavis77@mailinator.com",
+      "designation": "Backend Developer"
+    },
+    {
+      "location": "Dallas",
+      "firstName": "Olivia",
+      "lastName": "Martinez",
+      "email": "oliviamartinez94@mailinator.com",
+      "designation": "DevOps Engineer"
+    },
+    {
+      "location": "Phoenix",
+      "firstName": "Alexander",
+      "lastName": "Hernandez",
+      "email": "alexanderhernandez80@mailinator.com",
+      "designation": "Software Developer"
+    },
+    {
+      "location": "Atlanta",
+      "firstName": "Isabella",
+      "lastName": "Lopez",
+      "email": "isabellalopez92@mailinator.com",
+      "designation": "Mobile App Developer"
+    },
+    {
+      "location": "Denver",
+      "firstName": "Daniel",
+      "lastName": "Gonzalez",
+      "email": "danielgonzalez85@mailinator.com",
+      "designation": "Cloud Architect"
+    },
+    {
+      "location": "Philadelphia",
+      "firstName": "Mia",
+      "lastName": "Rivera",
+      "email": "miarivera96@mailinator.com",
+      "designation": "Front-end Developer"
+    },
+    {
+      "location": "San Diego",
+      "firstName": "Lucas",
+      "lastName": "Perez",
+      "email": "lucasperez84@mailinator.com",
+      "designation": "Java Developer"
+    },
+    {
+      "location": "Portland",
+      "firstName": "Emma",
+      "lastName": "Sanchez",
+      "email": "emmasanchez87@mailinator.com",
+      "designation": "Data Analyst"
+    },
+    {
+      "location": "Minneapolis",
+      "firstName": "Grace",
+      "lastName": "Wang",
+      "email": "gracewang03@mailinator.com",
+      "designation": "Product Manager"
+    },
+    {
+      "location": "Detroit",
+      "firstName": "Liam",
+      "lastName": "Brown",
+      "email": "liambrown79@mailinator.com",
+      "designation": "Software Engineer"
+    },
+    {
+      "location": "Nashville",
+      "firstName": "Avery",
+      "lastName": "Wilson",
+      "email": "averywilson90@mailinator.com",
+      "designation": "Front-end Developer"
+    },
+    {
+      "location": "Orlando",
+      "firstName": "Hannah",
+      "lastName": "Taylor",
+      "email": "hannahtaylor88@mailinator.com",
+      "designation": "UI/UX Designer"
+    },
+    {
+      "location": "San Antonio",
+      "firstName": "Benjamin",
+      "lastName": "Scott",
+      "email": "benjaminscott81@mailinator.com",
+      "designation": "Java Developer"
+    },
+    {
+      "location": "Tampa",
+      "firstName": "Madison",
+      "lastName": "Anderson",
+      "email": "madisonanderson93@mailinator.com",
+      "designation": "Data Scientist"
+    },
+    {
+      "location": "Salt Lake City",
+      "firstName": "William",
+      "lastName": "Evans",
+      "email": "williamevans86@mailinator.com",
+      "designation": "Full-stack Developer"
+    },
+    {
+      "location": "Austin",
+      "firstName": "Aiden",
+      "lastName": "Gonzalez",
+      "email": "aidengonzalez97@mailinator.com",
+      "designation": "DevOps Engineer"
+    },
+    {
+      "location": "Las Vegas",
+      "firstName": "Chloe",
+      "lastName": "Thomas",
+      "email": "chloethomas92@mailinator.com",
+      "designation": "Mobile App Developer"
+    },
+    {
+      "location": "Kansas City",
+      "firstName": "Daniel",
+      "lastName": "Jackson",
+      "email": "danieljackson81@mailinator.com",
+      "designation": "Backend Developer"
+    },
+    {
+      "location": "Oklahoma City",
+      "firstName": "Sophie",
+      "lastName": "Parker",
+      "email": "sophieparker85@mailinator.com",
+      "designation": "Data Analyst"
+    },
+    {
+      "location": "Memphis",
+      "firstName": "Henry",
+      "lastName": "Lee",
+      "email": "henrylee84@mailinator.com",
+      "designation": "Software Developer"
+    },
+    {
+      "location": "Raleigh",
+      "firstName": "Evelyn",
+      "lastName": "Kim",
+      "email": "evelynkim95@mailinator.com",
+      "designation": "Cloud Architect"
+    },
+    {
+      "location": "Indianapolis",
+      "firstName": "Landon",
+      "lastName": "Garcia",
+      "email": "landongarcia90@mailinator.com",
+      "designation": "Front-end Developer"
+    },
+    {
+      "location": "Charlotte",
+      "firstName": "Aaliyah",
+      "lastName": "Jones",
+      "email": "aaliyahjones91@mailinator.com",
+      "designation": "Java Developer"
+    }
+  ]
+}

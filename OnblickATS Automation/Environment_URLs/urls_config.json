@@ -1,0 +1,17 @@
+{
+  "demo": {
+    "LOGIN_URL": "",
+    "DASHBOARD_URL": "",
+    "HOTLIST_URL":"" 
+  },
+  "dev": {
+    "LOGIN_URL": "https://atsdevadmin.azurewebsites.net/",
+    "DASHBOARD_URL": "https://atsdevweb.azurewebsites.net/recruiter/dashboard",
+    "HOTLIST_URL": "https://atsdevweb.azurewebsites.net/app/mydatabase/internal-candidates"
+  },
+  "prod": {
+    "LOGIN_URL": "",
+    "DASHBOARD_URL": "",
+    "HOTLIST_URL": ""
+  }
+}
